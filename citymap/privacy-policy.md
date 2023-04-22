@@ -1,3 +1,7 @@
+---
+title: citymap Privacy Policy
+---
+
 **Privacy Policy**
 
 stoic.jp built the citymap app as a Free app. This SERVICE is provided by stoic.jp at no cost and is intended for use as is.
